@@ -16,5 +16,4 @@ This project uses YOLOv8 to detect 3D objects such as **cubes**, **spheres**, an
   - spheres
 - Input size: 640x640
 
-## 📁 Project Structure
 
